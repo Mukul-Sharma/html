@@ -1,0 +1,187 @@
+body {
+  font-family: "Georgia";
+  font-size: 13px;
+  color: #222222;
+}
+
+.logo {
+  margin-left: 15px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  display: inline-block;
+}
+
+.transparent {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.no-padding {
+  padding: 0px 0px 0px 0px;
+}
+
+.assignment-navbar {
+  background-color: #3355aa;
+  border-radius: 0px;
+  border-width: 0px;
+}
+
+.search-button-colored {
+  background-color: #3366aa;
+  color: white;
+  border-color: #3366aa;
+}
+
+.no-style-list {
+  list-style: none;
+}
+
+.nav-list li a em {
+  font-size: 17px;
+  line-height: 19px;
+  color: white;
+}
+
+.banner {
+  padding: 15px 25px 45px 25px;
+}
+
+.banner .image img {
+  width: 100%;
+}
+
+.banner .image p {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.banner .heading {
+  display: block;
+  font-size: 16px;
+  color: #3355aa;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #e5ca53;
+}
+
+.card {
+  border-radius: 2px;
+  background-color: white;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.announcements .heading {
+  margin-bottom: 20px;
+}
+
+.banner .bottom-align-text {
+  margin-top: 50px;
+}
+
+.announcements .no-style-list {
+  padding: 0;
+}
+
+.announcements ul li {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.announcements ul li p {
+  line-height: 15px;
+}
+
+.announcements .details {
+  font-size: 10px;
+  line-height: 10px;
+}
+
+.more {
+  color: #3355aa;
+}
+
+.gray-with-top-border-container {
+  border-top: 1px solid gray;
+  background-color: lightgray;
+}
+
+.sectors {
+    margin-bottom: 75px;
+}
+
+.sectors h1 {
+  text-align: center;
+  line-height: 78px;
+  margin: 0px;
+  font-size: 28px;
+}
+
+.sector .card {
+  padding: 5;
+}
+
+.sector {
+  color: #3355aa;
+  text-align: center;
+  font-size: 16px;
+}
+
+.sector .box {
+  background-color: gray;
+  height: 250px;
+}
+
+.footer {
+  background-color: #333333;
+  margin: 0px;
+  padding-top: 15px;
+  padding-bottom: 35px;
+}
+
+.footer .lists {
+  margin-bottom: 10px;
+}
+
+.footer ul {
+  margin: 0;
+}
+
+.footer li {
+  padding: 0;
+  margin: 0;
+  color: white;
+  margin-right: 5px;
+  padding-right: 5px;
+  display: inline-block;
+}
+
+.footer .left-list {
+  font-size: 15px;
+  line-height: 17px;
+  text-align: left;
+}
+
+.footer .right-list {
+  font-size: 11px;
+  line-height: 13px;
+  text-align: right;
+}
+
+.copyright {
+  font-size: 11px;
+  color: gray;
+  padding-top: 10px;
+  border-top: 1px solid #3d3d3d;
+}
+
+.border-right {
+  border-right: 1px solid lightgray;
+}
+
+.border-left {
+  border-left: 1px solid lightgray;
+}
