@@ -54,6 +54,7 @@ body {
 }
 
 .content .heading {
+  margin-top: 0px;
   line-height: 38px;
   font-size: 36px;
   color: #444444;
@@ -88,18 +89,17 @@ body {
 }
 
 .footer {
+  text-align: center;
   background-color: #ececec;
 }
 
 .footer .nav {
-  padding-left: 30%;
-  width: 100%;
   display: inline-block;
   list-style: none;
 }
 
 .footer .nav li {
-  float: left;
+  display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
 }
