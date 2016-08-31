@@ -6,8 +6,8 @@ body {
 
 .logo {
   margin-left: 15px;
-  padding-top: 9px;
-  padding-bottom: 9px;
+  padding-top: 11.5px;
+  padding-bottom: 11.5px;
   display: inline-block;
 }
 
@@ -24,6 +24,19 @@ body {
   background-color: #3355aa;
   border-radius: 0px;
   border-width: 0px;
+  /*padding: 5px 0;*/
+}
+
+.custom-search {
+  /*margin: 0;*/
+}
+
+.nav-list a {
+  line-height: 30px;
+}
+
+.custom-search * {
+  height: 30px;
 }
 
 .search-button-colored {
